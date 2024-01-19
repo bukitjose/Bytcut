@@ -4,7 +4,7 @@
 
 # Warning
 
-**Warning** this program is for testing and educational purposes i do not responsible for any damage to your device
+**Warning** this program is for **testing and educational purposes** **i do not responsible for any damage to your device**
 
 # About
 
